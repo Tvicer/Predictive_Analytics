@@ -1,0 +1,13 @@
+fastparquet
+lightgbm  
+numba
+numpy  
+pandas 
+plotly
+prophet 
+matplotlib 
+seaborn  
+scipy  
+statsmodels
+scikit-learn 
+sktime
